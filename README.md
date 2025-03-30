@@ -47,6 +47,10 @@ I am a Full Aspiring Data Analyst (Python, SQL, Tableau) | FMCG Purchasing Manag
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Lab" **alt="Jupyter Lab" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dmitrijevcode&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <!--
 **dmitrijevcode/dmitrijevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
