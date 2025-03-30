@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhhdWY0dmdnZzF2dG5waTVxeDNidXdmNWprY21xNGs3M3QxdWU2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="100"/>
 </div>
@@ -19,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=dmitrijevcode&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -29,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Aspiring Data Analyst (Python, SQL, Tableau) | FMCG Purchasing Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia.
+I am an Aspiring Data Analyst (Python, SQL, Tableau) | FMCG Purchasing Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia.
 
 :telescope: I am studying Data Analytics and developing my skills in Python, SQL, Power BI, and Tableau.
 
