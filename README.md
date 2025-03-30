@@ -27,6 +27,18 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### :woman_technologist: About Me :
+
+I am a Full Aspiring Data Analyst (Python, SQL, Tableau) | FMCG Purchasing Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia.
+
+:telescope: I am studying Data Analytics and developing my skills in Python, SQL, Power BI, and Tableau.
+
+:seedling: Exploring data analytics topics and working on learning projects.
+
+:zap: In my free time, I analyze datasets, solve SQL and Python problems, and study analytics articles.
+
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valeridmitrijev/)
+
 <!--
 **dmitrijevcode/dmitrijevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
